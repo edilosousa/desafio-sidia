@@ -1,0 +1,24 @@
+python3 -m venv venv
+
+source venv/bin/activate
+
+no windows via cmd venv\Scripts\activate
+
+pip install -r requirements.txt
+
+
+para rodar
+
+uvicorn app.main:app --reload
+
+
+http://127.0.0.1:8000/docs  mostra o swagger
+
+
+front end
+
+npm create vite@latest frontend -- --template react-ts
+npm install axios react-router-dom
+npm install -D @types/react-router-dom
+npm install react-data-table-component
+npm install react-bootstrap bootstrap
