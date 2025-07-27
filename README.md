@@ -16,7 +16,12 @@ Este projeto é uma solução para o desafio técnico proposto, que consiste em:
 ├── frontend/       # Frontend com React + TypeScript
 └── README.md
 ```
+## 📦 Clonando o Projeto
 
+```bash
+git clone https://github.com/edilosousa/desafio-sidia.git
+cd desafio-sidia
+```
 ---
 
 ## 🔧 Backend (FastAPI)
