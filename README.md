@@ -33,6 +33,14 @@ cd desafio-sidia
 
 ### 🔽 Instalação
 
+## Preparar o Dataset
+Acesse o site:
+👉 https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies/data
+
+⚠ Faça o download do arquivo CSV (por exemplo: tmdb_2023.csv);
+
+⚠ Renomeie o arquivo para: movies.csv e mova esse file para pasta data.
+
 ```bash
 # Criar ambiente virtual
 python3 -m venv venv
