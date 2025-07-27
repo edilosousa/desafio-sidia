@@ -11,3 +11,5 @@ frontend/.env
 
 .vscode/
 .DS_Store
+
+obs.txt
