@@ -88,6 +88,10 @@ npm install
 
 ```bash
 cd frontend
+
+renomear o .env.example por .env e colocar seu endereço do backend
+VITE_API_BASE=http://localhost:8000
+
 npm run dev
 ```
 
